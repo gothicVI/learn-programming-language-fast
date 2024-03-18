@@ -53,6 +53,10 @@ Or you use a package manager: https://nodejs.org/en/download/package-manager/
 https://golang.org/doc/install
 
 
+### fortran
+
+Windows/Mac OS/Linux: https://gcc.gnu.org/fortran/ and https://gcc.gnu.org/wiki/GFortran#download
+
 ## Contribution
 
 Corrections and additions to the documentation to help fellow learners are always welcome.
