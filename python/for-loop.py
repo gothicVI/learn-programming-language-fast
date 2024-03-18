@@ -10,11 +10,11 @@ for i in range(10):
 	guess = int(sys.stdin.readline())
 
 	if guess < solution:
-		print("My number is bigger.");
+		print("My number is bigger.")
 	elif guess > solution:
-		print("My number is smaller.");
+		print("My number is smaller.")
 	else:
-		print("That's it. You guessed it.");
+		print("That's it. You guessed it.")
 		exit(0)
 
 print("Ohh you didn't guess it. :(")

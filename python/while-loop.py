@@ -14,12 +14,12 @@ while running:
 		guess = int(sys.stdin.readline())
 
 		if guess < solution:
-			print("My number is bigger.");
+			print("My number is bigger.")
 		elif guess > solution:
-			print("My number is smaller.");
+			print("My number is smaller.")
 		else:
 			correct = True
-			print("That's it. You guessed it.");
+			print("That's it. You guessed it.")
 			break
 
 	if not correct:
